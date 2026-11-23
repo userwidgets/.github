@@ -1,3 +1,4 @@
 # Users
 
-Content will be added during the Users resource design.
+User creation is currently documented in
+[authentication/README.md](../../authentication/README.md) as `PUT /me`.
